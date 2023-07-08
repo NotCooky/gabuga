@@ -60,6 +60,7 @@
   <ItemGroup>
     <Compile Include="Assets\PSXEffects\Example\Scripts\CameraOrbit.cs" />
     <Compile Include="Assets\PSXEffects\Example\Scripts\DemoValueChanger.cs" />
+    <Compile Include="Assets\Scripts\V3PIDController.cs" />
     <Compile Include="Assets\MilkShake\Demo\Scripts\CameraDistance.cs" />
     <Compile Include="Assets\PSXEffects\Example\Scripts\CameraMovement.cs" />
     <Compile Include="Assets\MilkShake\Demo\Scripts\ToggleAudio.cs" />
@@ -68,6 +69,7 @@
     <Compile Include="Assets\MilkShake\Scripts\ShakeInstance.cs" />
     <Compile Include="Assets\PSXEffects\Example\Scripts\VertexColors.cs" />
     <Compile Include="Assets\MilkShake\Scripts\ShakePreset.cs" />
+    <Compile Include="Assets\Scripts\PlayerMove.cs" />
     <Compile Include="Assets\MilkShake\Scripts\ShakeType.cs" />
     <Compile Include="Assets\MilkShake\Demo\Scripts\CameraSwitcher.cs" />
     <Compile Include="Assets\PSXEffects\Example\Scripts\DemoInfo.cs" />
@@ -75,8 +77,10 @@
     <Compile Include="Assets\MilkShake\Scripts\ShakeState.cs" />
     <Compile Include="Assets\MilkShake\Demo\Scripts\CustomShake.cs" />
     <Compile Include="Assets\MilkShake\Demo\Scripts\ShakeClicker.cs" />
+    <Compile Include="Assets\Scripts\PlayerGrab.cs" />
     <Compile Include="Assets\PSXEffects\Example\Scripts\ObjectRotate.cs" />
     <Compile Include="Assets\MilkShake\Scripts\Shaker.cs" />
+    <Compile Include="Assets\Scripts\MoveCamera.cs" />
     <Compile Include="Assets\MilkShake\Demo\Scripts\ShakeButton.cs" />
     <Compile Include="Assets\PSXEffects\Example\Scripts\PropertyModifier.cs" />
     <Compile Include="Assets\MilkShake\Scripts\IShakeParameters.cs" />

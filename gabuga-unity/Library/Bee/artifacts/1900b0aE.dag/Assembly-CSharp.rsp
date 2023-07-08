@@ -380,6 +380,10 @@
 "Assets/PSXEffects/Example/Scripts/PropertyModifier.cs"
 "Assets/PSXEffects/Example/Scripts/VertexColors.cs"
 "Assets/PSXEffects/Scripts/PSXEffects.cs"
+"Assets/Scripts/MoveCamera.cs"
+"Assets/Scripts/PlayerGrab.cs"
+"Assets/Scripts/PlayerMove.cs"
+"Assets/Scripts/V3PIDController.cs"
 -langversion:9.0
 
 /deterministic
